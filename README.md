@@ -1,6 +1,6 @@
 # Learning Reflections README 
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
+## **Tailwind Footer**
 
 ### Overview
 
